@@ -13,3 +13,24 @@ body {
 	font-size: 32px;
 	color: red;
 }
+
+header {
+	padding: 0 1em;
+	background: rgb(93, 93, 255);
+}
+
+header,
+nav ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+header p {
+	color: white;
+}
+
+nav ul li {
+	padding-left: 4px;
+	list-style-type: none;
+	color: white;
+}
