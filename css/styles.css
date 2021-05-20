@@ -2,3 +2,13 @@ body {
 	text-align: center;
 	color: blue;
 }
+
+.container {
+	padding: 1em;
+	border: 1px solid #000;
+}
+
+.container h1 {
+	font-size: 32px;
+	color: red;
+}
