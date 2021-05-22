@@ -46,3 +46,16 @@ nav ul li {
 	border-radius: 100%;
 	margin-right: 8px;
 }
+
+footer {
+	background: rgb(15, 15, 15);
+	height: 64px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+footer p {
+	color: white;
+	margin: 0px;
+}
