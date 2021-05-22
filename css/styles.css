@@ -34,3 +34,16 @@ nav ul li {
 	list-style-type: none;
 	color: white;
 }
+
+footer {
+	background: rgb(15, 15, 15);
+	height: 64px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+footer p {
+	color: white;
+	margin: 0px;
+}
