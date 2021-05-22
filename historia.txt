@@ -5,6 +5,9 @@ Nuevos cambios
 
 master 1
 
+<<<<<<< HEAD
 master 2
+=======
+>>>>>>> experimento 1
 experimento 1
 
