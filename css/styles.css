@@ -34,3 +34,15 @@ nav ul li {
 	list-style-type: none;
 	color: white;
 }
+
+.logo {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+}
+
+.logo img {
+	object-fit: cover;
+	border-radius: 100%;
+	margin-right: 8px;
+}
